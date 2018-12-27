@@ -8,9 +8,9 @@ import SEO from '../components/seo'
 const SecondPage = () => (
   <Layout>
     <SEO title="Page two" />
-    <h1>Ring Selection Date Night</h1>
-    <p>Location: House of Diamonds</p>
-    <p>On a day/eve of your choice we will go to House of Diamonds and have Brent recreate your engagement ring or you can choose another one of your choice.</p>
+    <h1>Content removed</h1>
+    <p>Content removed</p>
+    <p>Content removed</p>
     
     <div style={{ maxWidth: `200px`, marginBottom: `1.45rem` }}>
       <Image />
